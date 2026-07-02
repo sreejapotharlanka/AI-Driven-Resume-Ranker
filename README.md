@@ -52,7 +52,6 @@ These are combined into one explainable **hybrid score** (configurable weights i
 ```
 resume-ranker/
 ├── README.md                  ← you are here
-├── CONTINUE_PROMPT.md          ← handoff prompt for an AI coding agent
 ├── requirements.txt
 ├── .env.example
 ├── app.py                      ← optional Streamlit demo UI
