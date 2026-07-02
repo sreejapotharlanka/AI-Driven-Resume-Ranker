@@ -1,0 +1,21 @@
+We are hiring a Senior Data Engineer to join our analytics platform team.
+
+Responsibilities:
+- Design and build scalable ETL/ELT pipelines for real-time and batch data processing
+- Own data infrastructure on AWS, including Spark and Airflow based workflows
+- Collaborate with data scientists and product teams to deliver reliable, well-modeled datasets
+- Mentor junior engineers and drive engineering best practices
+- Optimize query performance across large PostgreSQL and Redshift datasets
+
+Requirements:
+- 5+ years of experience in data engineering or backend software engineering
+- Strong proficiency in Python and SQL
+- Hands-on experience with Apache Spark, Kafka, and Airflow
+- Experience with AWS (S3, Redshift, EMR, Lambda)
+- Familiarity with Docker and CI/CD pipelines
+- Track record of leading projects end-to-end and mentoring others
+- Excellent communication and stakeholder management skills
+
+Nice to have:
+- Experience with dbt or similar data modeling tools
+- Exposure to machine learning pipelines
